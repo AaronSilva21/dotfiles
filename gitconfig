@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = Aaronsilva95@outlook.es
+	name = Aaron Lorenzo Silva
